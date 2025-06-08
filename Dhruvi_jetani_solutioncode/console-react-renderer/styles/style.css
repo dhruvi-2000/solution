@@ -1,0 +1,6 @@
+/* Not used in console renderer, just present for requirement */
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #1c92d2, #f2fcfe);
+  padding: 2rem;
+}
